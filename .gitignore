@@ -1,0 +1,46 @@
+# ---- Vivado / Vitis 生成目录（体积大，不入库）----
+*.runs/
+*.cache/
+*.gen/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.Xil/
+*.jou
+*.log
+*.str
+*.dmp
+*.pb
+*.dcp
+*.bit
+*.ltx
+*.bmm
+_ide/
+.vitisWorkspace.json.lock
+.lock
+
+# ---- 编译产物 ----
+build/
+*.o
+*.obj
+*.elf
+*.bin
+*.map
+*.d
+Debug/
+Release/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
