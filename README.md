@@ -172,6 +172,14 @@ MIT License — 见 [LICENSE](LICENSE)
 
 ## 实物照片
 
+**人手红外热图（系统实测输出）**
+
+![hand](images/hand-thermal-32x24.png)
+
+**PC 端上位机界面**
+
+![viewer](images/pc-viewer-ui.png)
+
 | LCD 四象限测试（验证引脚映射与显存地址） | 地址映射调试过程 |
 |---|---|
 | ![quadrant](images/lcd-quadrant-test.jpg) | ![debug](images/debug-address-mapping.jpg) |
